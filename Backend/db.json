@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "name": "Mulayam Kumar",
+      "salary": "5000000",
+      "company": "SpaceX",
+      "id": 1
+    },
+    {
+      "name": "Prince Raj",
+      "salary": "55555",
+      "company": "Engineer",
+      "id": 3
+    },
+    {
+      "name": "Anonymous",
+      "salary": "100000",
+      "company": "Tesla",
+      "id": 4
+    },
+    {
+      "name": "Chriss",
+      "salary": "458888",
+      "company": "SpaceX",
+      "id": 5
+    }
+  ]
+}
